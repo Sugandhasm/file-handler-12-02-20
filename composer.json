@@ -80,9 +80,6 @@
             "@auto-scripts"
         ]
     },
-    "conflict": {
-        "symfony/symfony": "2.*.*"
-    },
     "extra": {
         "symfony": {
             "allow-contrib": false,
