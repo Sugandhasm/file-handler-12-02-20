@@ -1,7 +1,6 @@
 {
     "name": "files/file-handler",
     "description": "Handling files",
-    "type": "symfony-bundle",
     "version": "1.0.0",
     "type": "library",
     "authors": [
