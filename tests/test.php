@@ -2,7 +2,7 @@
  
 require_once __DIR__ . '/../vendor/autoload.php';
  
-use App\Modules\FileHandler\Controller\FileController;
+use FileHandler\App\Modules\Component\Controller\FileController;
  
  
 echo FileController::world();
