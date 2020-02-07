@@ -15,10 +15,11 @@
 /phpunit.xml
 ###< symfony/phpunit-bridge ###
 ###> nbproject ###
- /nbproject/
+/nbproject
+/.idea
 ###< nbproject ###
 ###< docker ###
- /docker-compose.yml
- /Dockerfile
- /phpdocker/
+/docker-compose.yml
+/Dockerfile
+/phpdocker
 ###> docker ###

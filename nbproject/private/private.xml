@@ -3,9 +3,8 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group name="html">
-            <file>file:/var/www/html/file-handler/src/Modules/FileHandler/Controller/FileController.php</file>
-            <file>file:/var/www/html/file-handler/config/routes.yaml</file>
-            <file>file:/var/www/html/file-handler/tests/test.php</file>
+            <file>file:/var/www/html/file-handler/composer.json</file>
+            <file>file:/var/www/html/file-handler/src/Modules/FileAsset/Controller/FileController.php</file>
         </group>
     </open-files>
 </project-private>

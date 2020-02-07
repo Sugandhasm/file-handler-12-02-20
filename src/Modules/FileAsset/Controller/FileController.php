@@ -1,6 +1,6 @@
 <?php
 
-namespace FileHandler\App\Modules\Component\Controller;
+namespace FileHandler\App\Modules\FileAsset\Controller;
 
 class FileController {
     
